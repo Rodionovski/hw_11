@@ -1,0 +1,39 @@
+.main_text_left {
+    font-size: 38px;
+}
+.employees {
+    max-width: 50%;
+    border: none;
+}
+.text {
+    background-color: #fff;
+    min-width: 240px;
+    min-height: 74px;
+    text-align: center;
+    left: 29px;
+    bottom: 26px;
+}
+.name {
+    color: #000;
+    font-size: 18px;
+}
+.position {
+    color: #888;
+    font-size: 14px;
+}
+.main_text_right {
+    font-size: 28px;
+    padding-bottom: 24px;
+}
+.input {
+    min-width: 100%;
+    border: none;
+    border-bottom: 1px solid #888;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+.btn {
+    min-width: 186px;
+    max-height: 49px;
+    font-size: 14px;
+}
